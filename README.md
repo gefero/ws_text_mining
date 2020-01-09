@@ -1,14 +1,14 @@
 [![](img/front.jpg)]
 
 ## Exposiciones
-- [Diego Koslowski et al, _Estereotipos de género en revistas argentinas. Un caso de revistas argentinas
+- Diego Koslowski et al, [_Estereotipos de género en revistas argentinas. Un caso de revistas argentinas
 	en el período 2008-2018_](/slides/01_kozlowski.pdf)
-- [Facundo Carrillo, _Psiquatría computacional_](/slides/02_carrillo.pdf)
-- [Carla Palaviccini et al, _Estudio fenomenológico del consumo de cannabis: Análisis de reportes de
+- Facundo Carrillo, [_Psiquatría computacional_](/slides/02_carrillo.pdf)
+- Carla Palaviccini et al, [_Estudio fenomenológico del consumo de cannabis: Análisis de reportes de
 	usuarios de más de 887 cepas en cuanto a efectos subjetivos y percepciones de aroma y sabor_](/slides/03_pallavicini.pdf)
-- [Sebastián Pinto et al, _Agenda Mediática y Opinión Pública: Desarrollo de un marco cuantitativo basado en 
+- Sebastián Pinto et al, [_Agenda Mediática y Opinión Pública: Desarrollo de un marco cuantitativo basado en 
 	procesamiento de lenguaje natural (NLP)_](/slides/04_pinto.pdf)
-- [Germán Rosati, _Testeando una hipótesis de Borges sobre el tango Una aplicación de topic modeling y algunos otros
+- [Germán Rosati](https://gefero.github.io), [_Testeando una hipótesis de Borges sobre el tango Una aplicación de topic modeling y algunos otros
 	experimentos en letras de tango..._](/slides/05_rosati.pdf)
 
 
