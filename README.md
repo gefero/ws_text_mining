@@ -19,5 +19,6 @@
 - Normalización
 - Distancia de palabras y documentos
 - Topic Modelling: detección de temas aplicada a tuits sobre el golpe de estado en Bolivia
-- [Materiales](https://diegokoz.github.io/workshop_text_mining/)
+
+[Descarga de Materiales](https://diegokoz.github.io/workshop_text_mining/)
 
